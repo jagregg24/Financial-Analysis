@@ -1,0 +1,1 @@
+This is my personal project for the semester, it is called "pp test 1 4". It is a tool for credit risk prediction based on debt to income ratio. The user inputs some information then a graph shows their DTI ratio compared to the others in the data set. I also included a prior code that shows the accuracy of my machine learning model. That is named "pp 13".
